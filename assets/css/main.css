@@ -180,7 +180,7 @@
 	/* Set your background with this */
 
 		background: #000000 url("images/bg.jpg") bottom left;
-		background-repeat: repeat-x;
+		background-repeat: repeat;
 		height: 100%;
 		left: 0;
 		opacity: 1;
@@ -253,8 +253,8 @@
 	}
 
 	#bg {
-		background-size: 100% 100%;
-		width: 100%;
+		background-size: 2250px auto;
+		width: 6750px;
 	}
 
 /* Overlay */
@@ -681,7 +681,7 @@
 
 /* Wide */
 
-	@media screen and (max-width: none) {
+	@media screen and (max-width: 1680px) {
 
 		/* Basic */
 
@@ -757,8 +757,8 @@
 		}
 
 		#bg {
-			background-size: 100% 100%;
-			width: 100%;
+			background-size: 1500px auto;
+			width: 4500px;
 		} }
 
 /* Normal */
@@ -839,8 +839,8 @@
 		}
 
 		#bg {
-			background-size: 100% 100%;
-			width: 100%;
+			background-size: 750px auto;
+			width: 2250px;
 		} }
 
 /* Mobile */
