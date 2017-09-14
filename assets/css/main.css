@@ -581,10 +581,10 @@
 				}
 
 				#header nav li:nth-child(5) {
-					-moz-animation-delay: 13.5s;
-					-webkit-animation-delay: 13.5s;
-					-ms-animation-delay: 13.5s;
-					animation-delay: 13.5s;
+					-moz-animation-delay: 3.5s;
+					-webkit-animation-delay: 3.5s;
+					-ms-animation-delay: 3.5s;
+					animation-delay: 3.5s;
 				}
 
 				#header nav li:nth-child(6) {
